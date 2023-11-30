@@ -1,5 +1,5 @@
 ﻿# Portifolio
-## [Me siga no Instagram](https://www.instagram.com/caeduliveira/)
+## [Instagram](https://www.instagram.com/caeduliveira/)
 ### Portifolio
 
   - Site de portfólio pessoal responsivo usando HTML, CSS e JavaScript.
