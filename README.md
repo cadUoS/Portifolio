@@ -9,4 +9,4 @@
 
   🙃
 
-  ![preview img](/preview-home.jpeg)
+![preview-home](https://github.com/cadUoS/Portifolio/assets/113811047/9f244d28-b48d-4fd5-b299-4dddaf4a06a7)
